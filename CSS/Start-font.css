@@ -26,3 +26,15 @@ header{
  address{
     background-color:#2c1d27;
  }
+
+ .bloc_left{
+    background-color: #782221;
+}
+
+h3{
+    background-color:#dbc2a4 ;    
+}
+
+p,li{
+    color: white;
+}
