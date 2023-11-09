@@ -14,3 +14,15 @@
     font-family: Raleway, sans-serif;
 }
 
+h1 h2 {
+    font-family: 'lato', sans-serif ;
+}
+
+header{
+    background-color:#782221 ; 
+    color: white;
+}
+
+ address{
+    background-color:#2c1d27;
+ }
