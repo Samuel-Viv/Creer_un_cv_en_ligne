@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
+@font-face {
+    font-family:Raleway ;
+    src: url(./Font/Raleway-VariableFont_wght.woff);
+    src: url(./Font/Raleway-VariableFont_wght.ttf) format('truetype'),
+    url(./Font/Raleway-VariableFont_wght.otf) format('opentype'),
+    url(./Font/Raleway-Italic-VariableFont_wght.ttf) format('truetype'),
+    url(./Font/Raleway-Italic-VariableFont_wght.otf) format('opentype'),
+    url(./Font/Raleway-Italic-VariableFont_wght.woff) format()
+}
+
+*{
+    font-family: Raleway, sans-serif;
+}
+
