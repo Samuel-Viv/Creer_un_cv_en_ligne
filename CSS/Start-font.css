@@ -7,7 +7,7 @@
     url(./Font/Raleway-VariableFont_wght.otf) format('opentype'),
     url(./Font/Raleway-Italic-VariableFont_wght.ttf) format('truetype'),
     url(./Font/Raleway-Italic-VariableFont_wght.otf) format('opentype');
-    src: url()(./Font/Raleway-Italic-VariableFont_wght.woff) 
+    src: url(./Font/Raleway-Italic-VariableFont_wght.woff) 
 }
 
 *{
